@@ -1,3 +1,5 @@
+To see the live app [click here](https://gabrielgarcia7.github.io/react-todo-app/). 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
